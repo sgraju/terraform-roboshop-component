@@ -1,6 +1,6 @@
 variable "project_name" {
   type        = string
-  default     = "roboshop"
+  default     = "roboshop1"
 }
 
 variable "environment" {
@@ -17,5 +17,5 @@ variable "rule_priority" {
 }
 
 variable "domain_name" {
-    default = "daws86s.fun"
+    default = "sgrdevsecops.fun"
 }
